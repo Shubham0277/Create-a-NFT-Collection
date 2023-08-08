@@ -8,7 +8,7 @@ Welcome to the NFT Collection project! This project allows you to create and man
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/nft-collection.git`
+1. Clone the repository: `git clone https://github.com/Shubham0277/Create-a-NFT-Collection.git`
 2. Install dependencies: `npm install`
 3. Run the project: `node app.js`
 
