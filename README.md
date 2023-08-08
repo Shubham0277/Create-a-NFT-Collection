@@ -13,13 +13,12 @@ To get started with this project, follow these steps:
 3. Run the project: `node app.js`
 
 ## Usage
-
 ### Creating NFTs
 
 To create NFTs, use the `createNFT` function in the `app.js` file. Provide the NFT's name, UID, class, and language as arguments.
 
-```javascript
 createNFT("NFT Name", "NFT UID", "NFT Class", "NFT Language");
+
 
 ## Displaying NFTs
 To display the created NFTs and their metadata, use the displayNFTs function in the app.js file.
@@ -34,5 +33,9 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## License
 This project is licensed under the MIT License.
+
+
+
+
 
 
